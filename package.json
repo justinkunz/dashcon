@@ -1,0 +1,23 @@
+{
+  "name": "dashcon",
+  "version": "0.0.2",
+  "description": "A different way to handle NodeJS arguments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "argv",
+    "process",
+    "process.argv",
+    "flag",
+    "cli",
+    "command-line",
+    "parser",
+    "options",
+    "arguments",
+    "cmd"
+  ],
+  "author": "Justin Kunz",
+  "license": "MIT"
+}
