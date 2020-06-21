@@ -1,6 +1,6 @@
 {
   "name": "dashcon",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A different way to handle NodeJS arguments",
   "main": "index.js",
   "scripts": {
