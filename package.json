@@ -1,7 +1,8 @@
 {
   "name": "dashcon",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "A different way to handle NodeJS arguments",
+  "homepage": "https://github.com/justinkunz/dashcon",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
